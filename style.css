@@ -1,0 +1,53 @@
+#pag {
+    margin:0 auto;
+    width:75%; 
+}
+
+#header {
+    background:lightblue; 
+    height:75px; 
+    border:solid 1px #000;
+    margin-bottom:5px;
+}
+
+#nameofsite {
+    display:block;
+    font:normal bold 35px arial;
+    margin:15px !important;
+    position:absolute;
+}
+
+#buttonone {
+    display:block;
+    font:normal bold 20px arial;
+    border-radius:10%;
+    border:outset 2px #eee;
+    float:right;
+    position:relative;
+}
+
+.oner {
+    margin:20px 20px 20px 10px;
+}
+
+.other {
+    margin:20px 10px 20px 20px;
+}
+
+#buttonone:hover {
+    border-style:inset;
+}
+
+ul {
+    padding:0;
+    font-size:17px;
+    float:left;
+    list-style-type:none;
+    margin-top:0;
+}
+
+#img {
+position:relative;    
+float:right;
+    
+}

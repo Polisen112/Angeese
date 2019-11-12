@@ -46,6 +46,10 @@ ul {
     margin-top:0;
 }
 
+#image {
+    background:url(https://pbs.twimg.com/profile_images/938268809734922240/FWPK5ff1_400x400.jpg);
+}
+
 #img {
 position:relative;    
 float:right;

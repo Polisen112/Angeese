@@ -47,8 +47,8 @@ ul {
 }
 
 #image {
-    width:400px;
-    height:400px;
+    width:400%;
+    height:400%;
     background:url(https://pbs.twimg.com/profile_images/938268809734922240/FWPK5ff1_400x400.jpg);
 }
 

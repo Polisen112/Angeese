@@ -46,8 +46,7 @@ ul {
 }
 
 #buttons {
-    position:relative;
-    float:left;
+    position:absolute;
 }
 
 #image {
